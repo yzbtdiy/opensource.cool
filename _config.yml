@@ -8,12 +8,12 @@ subtitle: '拥抱开源'
 description: ''
 keywords:
 author: yzbtdiy
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://opensouce.cool
+url: https://www.opensouce.cool
 # permalink: :year/:month/:day/:title/
 permalink: :title.html
 permalink_defaults:

@@ -1080,6 +1080,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"hexo-generator-searchdb@npm:^1.4.0":
+  version: 1.4.0
+  resolution: "hexo-generator-searchdb@npm:1.4.0"
+  dependencies:
+    nunjucks: ^3.2.2
+  checksum: 20a03c66a2a45e3c2178b9eac2eba85903b639ed19cbe2204e1fd0d3a7c333794c9f6c11c0c422cf8a4b3f2efaa7dea0e65b546a444d4316ae649cd9a84edf19
+  languageName: node
+  linkType: hard
+
 "hexo-generator-tag@npm:^1.0.0":
   version: 1.0.0
   resolution: "hexo-generator-tag@npm:1.0.0"
@@ -1169,6 +1178,7 @@ __metadata:
     hexo-generator-archive: ^1.0.0
     hexo-generator-category: ^1.0.0
     hexo-generator-index: ^2.0.0
+    hexo-generator-searchdb: ^1.4.0
     hexo-generator-tag: ^1.0.0
     hexo-renderer-ejs: ^1.0.0
     hexo-renderer-marked: ^4.1.0
@@ -1919,7 +1929,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nunjucks@npm:^3.2.1":
+"nunjucks@npm:^3.2.1, nunjucks@npm:^3.2.2":
   version: 3.2.3
   resolution: "nunjucks@npm:3.2.3"
   dependencies:
